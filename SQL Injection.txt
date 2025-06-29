@@ -1,0 +1,7 @@
+String query = "SELECT * FROM user where username = '" + username + "' AND password = '" + password + "'";
+
+Username: admin
+Password: 123' OR '1' = '1
+
+
+SELECT * FROM user where username = 'admin' AND password = '123' OR '1' = '1'
